@@ -2,9 +2,9 @@ import forca
 import adivinhacao
 
 def escolhe_jogo():
-    print("*********************************")
+    print("**********************************")
     print("Bem vindo escolha um GAME!")
-    print("*********************************")
+    print("**********************************")
     print("\n Escolha um dos jogos \n (1) Adivinhação \n (2) Forca")
 
     jogo = int(input("Qual jogo: "))
